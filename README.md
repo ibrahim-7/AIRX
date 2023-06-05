@@ -1,6 +1,5 @@
-# fifth_project
-
-A new Flutter project.
+# AIRx-The News App
+AIRx is a comprehensive news app designed to keep you informed and connected with the latest news from around the world. With its user-friendly interface and powerful features, NewsNow offers a personalized and immersive news experience that caters to your interests and preferences.
 
 ## Getting Started
 
